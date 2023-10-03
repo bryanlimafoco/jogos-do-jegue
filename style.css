@@ -1,0 +1,41 @@
+body{
+  background-color:#3B2E25;
+  text-align: center;
+}
+  h1{  
+  color:#695242;
+  }
+  h3{
+  color:#FAC95F;
+  }
+h2{
+ color:#29FF9A;
+
+     
+
+  }
+
+ h3{
+        color:#FAC95F;
+      }
+  
+p{
+color:white;
+}
+
+
+ a{
+    text-decoration:none;
+    color:blue;
+     border-style:solid;
+      border-color:white;
+      padding:10px;
+        border-radius:5px;
+          background-color:#006FEF;
+          
+    }
+
+    img:hover{
+      border: 2px solid rgb(59, 196, 18);
+  
+    }
